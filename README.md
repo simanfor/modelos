@@ -15,6 +15,7 @@ En concreto, este repositorio aloja las fichas que detallan el contenido de cada
 
 *   arbol: fichas descriptivas de modelos puros de árbol individual
 *   arbol_mixto: fichas descriptivas de modelos mixtos de árbol individual
+*   existencias: fichas descriptivas del modelo estático para cálculos de existencias
 *   masa: fichas descriptivas de modelos de masa
 *   SIMANFOR_modelos.pdf: explicación del funcionamiento de los modelos forestales en SIMANFOR    
 
