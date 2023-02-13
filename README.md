@@ -24,6 +24,7 @@ En concreto, este repositorio aloja las fichas que detallan el contenido de cada
 *   [Escenarios en SIMANFOR](https://github.com/simanfor/escenarios)
 *   [Introducción a SIMANFOR](https://github.com/simanfor/introduccion)
 *   [Inventarios en SIMANFOR](https://github.com/simanfor/inventarios)
+*   [Manual de uso de SIMANFOR](https://github.com/simanfor/manual)
 *   [Publicaciones acerca de SIMANFOR](https://github.com/simanfor/publicaciones)
 *   [Resultados de simulación en SIMANFOR](https://github.com/simanfor/resultados)
 *   [Web de SIMANFOR](https://github.com/simanfor/web)
