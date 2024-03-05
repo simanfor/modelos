@@ -19,10 +19,15 @@ In this repository, you will find datasheets describing the content of each mode
 
 ## :scroll: Content
 
-* :deciduous_tree: **arbol**: Descriptive datasheets of individual tree models for pure stands
-* :deciduous_tree: :evergreen_tree: **arbol_mixto**: Descriptive datasheets of individual tree models for mixed stands
-* :wood: **existencias**: Descriptive datasheets of the static model for stock calculations
-* :deciduous_tree: :deciduous_tree: **masa**: Descriptive datasheets of stand-level models
+* **espanol**: contains model sheets in Spanish :es:
+* **english**: contains the model sheets in English 🇬🇧
+
+In each of the folders, the contents are as follows:
+* :deciduous_tree: **individual_tree**: individual tree model description sheets:
+    * :deciduous_tree: :deciduous_tree: for **pure stands**
+    * :deciduous_tree: :evergreen_tree: for **mixed stands** 
+    * :wood: :wood: for **yields** (*Existencias España*)
+* :deciduous_tree: :deciduous_tree: **stand**: Descriptive datasheets of stand-level models
 * :book: :es: **SIMANFOR_modelos.pdf**: Explanation of the operation of forest models in SIMANFOR in Spanish
 * :book: 🇬🇧 **SIMANFOR_modelos_EN.pdf**: Explanation of the operation of forest models in SIMANFOR in English
 

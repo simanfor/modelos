@@ -19,9 +19,15 @@ En este repositorio encontrarás fichas que describen el contenido de cada model
 
 ## :scroll: Contenido
 
-* :deciduous_tree: **arbol**: fichas descriptivas de modelos de árbol individual para masas puras
-* :deciduous_tree: :evergreen_tree: **arbol_mixto**: fichas descriptivas de modelos de árbol individual para masas mixtas
-* :wood: **existencias**: fichas descriptivas del modelo estático para cálculos de existencias
+* **espanol**: contiene las fichas de los modelos en español :es:
+* **english**: contiene las fichas de los modelos en inglés 🇬🇧
+
+En cada una de las carpetas, el contenido es el siguiente:
+
+* :deciduous_tree: **arbol_individual**: fichas descriptivas de modelos de árbol individual:
+    * :deciduous_tree: :deciduous_tree: para **masas puras**
+    * :deciduous_tree: :evergreen_tree: para **masas mixtas** 
+    * :wood: :wood:  para el cálculo de **existencias** (*Existencias España*)
 * :deciduous_tree: :deciduous_tree: **masa**: fichas descriptivas de modelos de masa
 * :book: :es: **SIMANFOR_modelos.pdf**: explicación del funcionamiento de los modelos forestales en SIMANFOR en español
 * :book: 🇬🇧 **SIMANFOR_modelos_EN.pdf**: explicación del funcionamiento de los modelos forestales en SIMANFOR en inglés
