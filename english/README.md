@@ -29,7 +29,7 @@ In each of the folders, the contents are as follows:
     * :wood: :wood: for **yields** (*Existencias España*)
 * :deciduous_tree: :deciduous_tree: **stand**: Descriptive datasheets of stand-level models
 * :book: :es: **SIMANFOR_modelos.pdf**: Explanation of the operation of forest models in SIMANFOR in Spanish
-* :book: 🇬🇧 **SIMANFOR_modelos_EN.pdf**: Explanation of the operation of forest models in SIMANFOR in English
+* :book: 🇬🇧 **english/SIMANFOR_models.pdf**: Explanation of the operation of forest models in SIMANFOR in English
 
 ---
 

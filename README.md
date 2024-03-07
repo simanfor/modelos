@@ -30,7 +30,7 @@ En cada una de las carpetas, el contenido es el siguiente:
     * :wood: :wood:  para el cálculo de **existencias** (*Existencias España*)
 * :deciduous_tree: :deciduous_tree: **masa**: fichas descriptivas de modelos de masa
 * :book: :es: **SIMANFOR_modelos.pdf**: explicación del funcionamiento de los modelos forestales en SIMANFOR en español
-* :book: 🇬🇧 **SIMANFOR_modelos_EN.pdf**: explicación del funcionamiento de los modelos forestales en SIMANFOR en inglés
+* :book: 🇬🇧 **english/SIMANFOR_models.pdf**: explicación del funcionamiento de los modelos forestales en SIMANFOR en inglés
 
 ---
 
