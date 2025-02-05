@@ -27,6 +27,7 @@ In each of the folders, the contents are as follows:
     * :deciduous_tree: :deciduous_tree: for **pure stands**
     * :deciduous_tree: :evergreen_tree: for **mixed stands** 
     * :wood: :wood: for **yields** (*Existencias España*)
+* 🎯 **harvests**: short explanation about the harvests settings on SIMANFOR
 * :deciduous_tree: :deciduous_tree: **stand**: Descriptive datasheets of stand-level models
 * :book: :es: **SIMANFOR_modelos.pdf**: Explanation of the operation of forest models in SIMANFOR in Spanish
 * :book: 🇬🇧 **english/SIMANFOR_models.pdf**: Explanation of the operation of forest models in SIMANFOR in English

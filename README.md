@@ -28,6 +28,7 @@ En cada una de las carpetas, el contenido es el siguiente:
     * :deciduous_tree: :deciduous_tree: para **masas puras**
     * :deciduous_tree: :evergreen_tree: para **masas mixtas** 
     * :wood: :wood:  para el cálculo de **existencias** (*Existencias España*)
+* 🎯 **corta**: breve explicación sobre la configuración de las cortas en SIMANFOR
 * :deciduous_tree: :deciduous_tree: **masa**: fichas descriptivas de modelos de masa
 * :book: :es: **SIMANFOR_modelos.pdf**: explicación del funcionamiento de los modelos forestales en SIMANFOR en español
 * :book: 🇬🇧 **english/SIMANFOR_models.pdf**: explicación del funcionamiento de los modelos forestales en SIMANFOR en inglés
