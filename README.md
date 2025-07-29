@@ -19,6 +19,8 @@ En este repositorio encontrarás fichas que describen el contenido de cada model
 
 ## :scroll: Contenido
 
+### :point_right: Lista con todos los modelos disponibles en SIMANFOR e información complementaria [aquí](./espanol/lista_detalle_modelos.md)
+
 * **espanol**: contiene las fichas de los modelos en español :es:
 * **english**: contiene las fichas de los modelos en inglés 🇬🇧
 

@@ -19,6 +19,8 @@ In this repository, you will find datasheets describing the content of each mode
 
 ## :scroll: Content
 
+### :point_right: List of all models available at SIMANFOR and additional information [here](detailed_model_list.md)
+
 * **espanol**: contains model sheets in Spanish :es:
 * **english**: contains the model sheets in English 🇬🇧
 
