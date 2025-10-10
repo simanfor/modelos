@@ -669,6 +669,22 @@
 
 ---
 
+:point_right: *Nombre del modelo*: **Alnus rubra plantations in Oregon and Washington (USA)**
+
+:scroll: *Descripción*: RAP-ORGANON: Modelo de crecimiento de árbol individual para plantaciones de Alnus rubra en Oregon y Washington (EEUU)
+
+:deciduous_tree: *Especie objetivo*: *Alnus rubra* (aliso rojo)
+
+:world_map: *Zona de aplicación*: Oregon y Washington (EEUU)
+
+:timer_clock: *Periodo de ejecución*: 1 año
+
+:1234: *Inventarios*: https://github.com/simanfor/inventarios/tree/main/ejemplos/modelos_arbol_individual-masas_puras
+
+:books: *Documentación del modelo*: documentación en [inglés](https://archive-cips.forestry.oregonstate.edu/sites/cips/files/Updated%20ORGANON%20Red%20Alder%20Publication%20FBRP%20%236.pdf)
+
+---
+
 :point_right: *Nombre del modelo*: **Qpyrenaica Castilla y León**
 
 :scroll: *Descripción*: Modelo de crecimiento de árbol individual para Quercus pyrenaica en Castilla y León (España)
