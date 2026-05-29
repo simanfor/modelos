@@ -1,8 +1,6 @@
 # Sheets for individual tree models available in
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/simanfor/web/main/logos/simanfor.png" alt="simanfor" width="500"/>
-</p>
+![simanfor](https://raw.githubusercontent.com/simanfor/web/main/logos/simanfor.png)
 
 ---
 
@@ -19,25 +17,13 @@ Below is the [SIMANFOR](https://www.simanfor.es/models) model selection screen w
 
 ---
 
-## :email: Contact
+## 📧 Contact
 
 *For any questions or suggestions, you can contact the SIMANFOR technical team at simanfor.forest@uva.es*.
 
 ---
 
-<h1 align="center" >
-
 [*Forest models of SIMANFOR*](https://github.com/simanfor/modelos) - [*SIMANFOR Website*](https://www.simanfor.es/)
+![simanfor](https://raw.githubusercontent.com/simanfor/web/main/logos/simanfor.png)
 
-</h1>
-
-
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/simanfor/web/main/logos/simanfor.png" alt="simanfor" width="500"/>
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/simanfor/web/main/logos/iufor.png" alt="iufor" width="350"/>
-<img src="https://raw.githubusercontent.com/simanfor/web/main/logos/UVa-ETSIIAA.png" alt="uva_etsiiaa" width="250"/>
-</p>
+![iufor](https://raw.githubusercontent.com/simanfor/web/main/logos/iufor.png) ![uva_etsiiaa](https://raw.githubusercontent.com/simanfor/web/main/logos/UVa-ETSIIAA.png)

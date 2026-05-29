@@ -1,8 +1,6 @@
 # Fichas descriptivas para modelos de masa de
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/simanfor/web/main/logos/simanfor.png" alt="simanfor" width="500"/>
-</p>
+![simanfor](https://raw.githubusercontent.com/simanfor/web/main/logos/simanfor.png)
 
 ---
 
@@ -17,24 +15,13 @@ Nombre completo: *Psylvestris_cat_stand_ES*
 
 ---
 
-## :email: Contacto
+## 📧 Contacto
 
 *Para cualquier duda o sugerencia puedes contactar con el equipo técnico de SIMANFOR en simanfor.forest@uva.es*.
 
 ---
 
-<h1 align="center" >
-
 [*Modelos forestales en SIMANFOR*](https://github.com/simanfor/modelos) - [*Página web de SIMANFOR*](https://www.simanfor.es/)
+![simanfor](https://raw.githubusercontent.com/simanfor/web/main/logos/simanfor.png)
 
-</h1>
-
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/simanfor/web/main/logos/simanfor.png" alt="simanfor" width="500"/>
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/simanfor/web/main/logos/iufor.png" alt="iufor" width="350"/>
-<img src="https://raw.githubusercontent.com/simanfor/web/main/logos/UVa-ETSIIAA.png" alt="uva_etsiiaa" width="250"/>
-</p>
+![iufor](https://raw.githubusercontent.com/simanfor/web/main/logos/iufor.png) ![uva_etsiiaa](https://raw.githubusercontent.com/simanfor/web/main/logos/UVa-ETSIIAA.png)
