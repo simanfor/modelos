@@ -12,3 +12,9 @@
 ## 🚧 Work in progress... 🚧
 
 You can explore the list in Spanish version [here](../espanol/lista_detalle_modelos.md)
+
+---
+
+![simanfor](https://raw.githubusercontent.com/simanfor/.github/main/skills/simanfor-public-md-documentation/resources/simanfor.png)
+
+![SMART_GIR](https://raw.githubusercontent.com/simanfor/.github/main/skills/simanfor-public-md-documentation/resources/SMART_GIR.png)

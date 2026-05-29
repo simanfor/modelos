@@ -22,7 +22,6 @@ Full name: *Psylvestris_cat_stand_ES*
 
 ---
 
-[*Forest models of SIMANFOR*](https://github.com/simanfor/modelos) - [*SIMANFOR Website*](https://www.simanfor.es/)
-![simanfor](https://raw.githubusercontent.com/simanfor/web/main/logos/simanfor.png)
+![simanfor](https://raw.githubusercontent.com/simanfor/.github/main/skills/simanfor-public-md-documentation/resources/simanfor.png)
 
-![iufor](https://raw.githubusercontent.com/simanfor/web/main/logos/iufor.png) ![uva_etsiiaa](https://raw.githubusercontent.com/simanfor/web/main/logos/UVa-ETSIIAA.png)
+![SMART_GIR](https://raw.githubusercontent.com/simanfor/.github/main/skills/simanfor-public-md-documentation/resources/SMART_GIR.png)
